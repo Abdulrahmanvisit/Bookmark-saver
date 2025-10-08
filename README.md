@@ -58,7 +58,7 @@ To remove a saved bookmark, click the Delete icon next to it.
 
 Follow these simple steps to run bookmark-saver locally on your computer:
 # Clone the repository
-git clone https://github.com/Abdulrahmanvisit/bookmark-saver.git
+git clone https://github.com/Abdulrahmanvisit/Bookmark-saver.git
 
 # Navigate to the project folder
 cd bookmark-saver
